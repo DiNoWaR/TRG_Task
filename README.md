@@ -1,3 +1,8 @@
+For this assignment i needed to work with dataset consisted of UK reported street crimes
+from January 2018 to March 2019.
+But there is no data from January 2018 till July 2018 anymore by that link. Only from August 2018. 
+So I took the dataset from August 2018 till March 2019.
+
 To run this app. do the following:
 
 Go to root project folder.
